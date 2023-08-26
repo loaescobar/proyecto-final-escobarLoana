@@ -1,0 +1,75 @@
+
+
+.nav-item-dos{
+    background-color:  rgb(43, 11, 72);
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+.links-nav{
+    display: flex;
+    align-items: center;
+    
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    
+     
+}
+
+
+
+#id-form{
+    background-color: rgb(43, 11, 72);
+    color: beige;
+    padding: 30px;
+    margin: 50px;
+}
+
+.titulo-form{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.div-cards{
+    background-color: rgba(42, 23, 55, 0.9);
+   
+    
+    
+}
+
+#cards{
+    display: flex;
+    justify-content: space-around;
+    
+    padding: 10px;
+}
+
+.card{
+    background-color: beige;
+    margin: 20px;
+    
+    
+}
+
+.boton-color{
+    background-color: rgb(43, 11, 72) ;
+    color: beige;
+    border-radius: 5%;
+}
+
+
+.imagenes{
+    padding-top: 10px;
+    max-width: 500px;
+    max-height: 500px;
+    display: block;
+    margin: 0 auto;
+}
+
+.card-body{
+    text-align: center;
+}
